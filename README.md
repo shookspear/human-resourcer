@@ -10,7 +10,7 @@ This is command line application that allows users to view and manage the depart
 * Inquirer
 * Node.js
 
-## Walk Through Videos
+## Walk Through Video
 Part 1: https://drive.google.com/file/d/1v150qRAV-6aeVd1y34AuuGM3gT9VqUAv/view
 
 ### ©️2022 Echeta Okeke
