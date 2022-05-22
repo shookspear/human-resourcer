@@ -52,6 +52,10 @@ function mainMenu(){
             case "Add a Role":
                 addRole();
             break;
+
+            case "Add an Employee":
+                addEmployee();
+            break;    
       
             case "Update an Employee Role":
                 updateEmployeeRole();
