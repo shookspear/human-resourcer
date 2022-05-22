@@ -208,7 +208,3 @@ function updateEmployeeRole() {
     })
 
   }
-
-
-
-  
