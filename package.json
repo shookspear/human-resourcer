@@ -1,0 +1,26 @@
+{
+  "name": "human-resourcer",
+  "version": "1.0.0",
+  "description": "Module 12 - SQL Challenge: Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shookspear/human-resourcer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shookspear/human-resourcer/issues"
+  },
+  "homepage": "https://github.com/shookspear/human-resourcer#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
